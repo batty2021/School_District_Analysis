@@ -6,7 +6,7 @@ Use Python and the Pandas library to analyze school district data
 # Purpose :
   Meria and her superviser asked me to replace the Math and Reading scores for Thomas High School with NaNs while keeping the rest of the data intact becouse the student complete CSV file shows evidence of acadamic dihonesty.
   
-# Resourse: all data used found inside of the https://github.com/batty2021/School_District_Analysis/tree/main/Resources folder
+# Resourse: all data used found inside of the repository School_District_Analysis ; Resourses folder
 # Software : Python 3.7, Anaconda, Jupyter Notebook and basics of the Pandas library.
 
 # Results:
