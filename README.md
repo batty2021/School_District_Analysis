@@ -18,7 +18,6 @@ Python 3.7, Anaconda, Jupyter Notebook and basics of the Pandas library.
 
 - Replacing the ninth graders' math and reading scores with NaN resulted in the following changes ;
    - the overall passing percentage for Thomas High School fell to 65%
-   - the overall passing percentage for Thomas High School fell to 64.9%
    - the Thomas high school has no longer included on the list of top 5 schools
 - When the 9th graders' of Thomas High School had their scores altered from the calculations, the following changes happened;
     - the overall passing percentage of THS decreased by 0.11%
