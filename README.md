@@ -1,5 +1,5 @@
 # School_District_Analysis
-Use Python and the Pandas library to analyze school district data
+Use Python and the Pandas library to analyze school district data.
 
 # Overview of the analysis:
 
@@ -48,7 +48,7 @@ Python 3.7, Anaconda, Jupyter Notebook and basics of the Pandas library.
    Reading score by grade;![Reading_score_by_grade](https://user-images.githubusercontent.com/77947860/150624646-482a761d-3d02-4d48-86ec-70d576ce7696.png)
    
  # Summary
-Finally, Omitting the 9th grade from Thomas High School is a suboptimal issue because a full set of data is ideal for creating the most accurate results, on the other side replacing the grades with NaN caused THS overall passing percentage and average scores are crash due to this THS lost its placement as top five within the district. however; after updating the total student to exclude the Thomas High School ninth grades and omitting their scores from the dataset, Thomas High School(THS) regained its high scores and got its position as the second place in the district.
+Finally, Omitting the 9th grade from Thomas High School is a suboptimal issue because a full set of data is ideal for creating the most accurate results, on the other side replacing the grades with NaN caused THS(Thomas High School) overall passing percentage and average scores are crash due to this THS lost its placement as top five within the district. however; after updating the total student to exclude the Thomas High School ninth grades and omitting their scores from the dataset, Thomas High School(THS) regained its high scores and got its position as the second place in the district.
 
    
 
