@@ -13,8 +13,11 @@ Resources/schools_complete.csv , Resources/students_complete.csv
 Python 3.7, Anaconda, Jupyter Notebook and basics of the Pandas library.
 
 # Results:
-    Becouse of acadamic dishonesty by the ninth grade students of Thomas High School this Analysis was conducted twice.The first trial included the full set of student data and the second one had thier scores replaced with NaN. The dataframe shown below is a summary reperesenting the district after replacing the ninth Graders' scors with NaN.
-    ![District_Summary_DataFrame](https://user-images.githubusercontent.com/77947860/150620438-1eb45e38-fef7-4765-ae07-7fa634b208a2.png)
+    Becouse of acadamic dishonesty by the ninth grade students of Thomas High School this Analysis was conducted twice.
+    The first trial included the full set of student data and the second one had thier scores replaced with NaN. The dataframe 
+    shown below is a summary reperesenting the district after replacing the ninth Graders' scors with NaN.
+    
+  ![District_Summary_DataFrame](https://user-images.githubusercontent.com/77947860/150620438-1eb45e38-fef7-4765-ae07-7fa634b208a2.png)
 
 - Replacing the ninth graders' math and reading scores with NaN resulted in the following changes ;
    - the overall passing percentage for Thomas High School fell to 65%
